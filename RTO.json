@@ -1,0 +1,185 @@
+{
+ "code": "M522B",
+ "connector": "RTO-144",
+ "type": "Mono Equalizer",
+ "series": null,
+ "contacts": "22 contacts, 1 contacts (J3), 2 contacts (P1), 5 contacts (P3), 1 contacts (P5)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/FILTERS/M522B/PHOTOS/19xx - M522B - wbsps - module - m522b equlizer 004.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer.pdf",
+   "page": 15
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/FILTERS/M522B/PHOTOS/19xx - M522B - wbsps - module - m522b equlizer 005.jpg",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer (2).pdf",
+   "page": 15
+  },
+  {
+   "pin": "4",
+   "signal": "LEFT(MONO) IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "LEFT(MONO) IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "PHOTOS/Drawings/19xx - 14-152-02-002 - SA14-152A MONO FILTER ASSEMBLY SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "LEFT(MONO) OUT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "LEFT(MONO) OUT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M522B/M522B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "+/-25 VOL SUPPLY VOLTAGE",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - P05.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "19",
+   "ground": "20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "21",
+   "ground": "20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M522B/M522B.rto144.json",
+  "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer (2).pdf",
+  "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer.pdf",
+  "Modules/FILTERS/M522B/MANUALS/19xx - M522B - P05.jpg",
+  "Modules/FILTERS/M522B/PHOTOS/19xx - M522B - wbsps - module - m522b equlizer 004.jpg",
+  "Modules/FILTERS/M522B/PHOTOS/19xx - M522B - wbsps - module - m522b equlizer 005.jpg",
+  "PHOTOS/Drawings/19xx - 14-152-02-002 - SA14-152A MONO FILTER ASSEMBLY SCHEMATIC.jpg"
+ ]
+}

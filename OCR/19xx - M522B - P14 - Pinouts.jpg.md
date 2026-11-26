@@ -11,6 +11,16 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Size:** 100,214 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 334 × 432 mm, 780 × 1009 px traced (0.428 mm/px)
+- **Ink extent:** 10–311 mm across, 9–416 mm up
+- **Outlines:** line 85 rings, 877 straight (5,784 mm) / 102 curved (268 mm); text 379 rings, 2,136 straight (4,131 mm) / 621 curved (1,560 mm)
+- **Closed boxes:** 20; named: 18; 20
+- **Words (OCR):** 53 in 39 lines: CCNNECTOR · AYQUI · ME229/M522C ECUALIZER MODULES · NC · NC · ShiEL3 · LEFT/MONO · iNPuT (RD) · BALANCED · INPuT (BK ) · iNPuT · outPuT (RD) UNSAANQ ?
+
+Every curve, box, word and wire group: [19xx - M522B - P14 - Pinouts (traced).json](../PINOUTS/19xx%20-%20M522B%20-%20P14%20-%20Pinouts%20%28traced%29.json) (the CAD file: `19xx - M522B - P14 - Pinouts (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

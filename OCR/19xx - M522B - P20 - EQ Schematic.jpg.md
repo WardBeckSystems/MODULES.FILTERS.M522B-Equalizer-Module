@@ -11,6 +11,20 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Size:** 282,023 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 272 mm, 2000 × 1261 px traced (0.216 mm/px)
+- **Ink extent:** 5–429 mm across, 6–250 mm up
+- **Outlines:** line 854 rings, 7,998 straight (11,872 mm) / 1,930 curved (2,347 mm); text 126 rings, 978 straight (999 mm) / 257 curved (364 mm); tb 2 rings, 38 straight (110 mm) / 0 curved (0.0 mm)
+- **Centre lines:** 7,785 paths (152 closed); straight 7,781 mm, curved 193 mm; horizontal 3,232 mm, vertical 1,779 mm, diagonal 2,770 mm
+- **Circles and arcs:** 3 circles, 46 arcs; largest r 3.5 @ (72.7, 88.4), r 3.4 @ (80.0, 52.3), r 0.8 @ (65.8, 77.2)
+- **Closed boxes:** 3
+- **Words (OCR):** 13 in 12 lines: cutput · UZA · 50 · 33 · 4776 · ChASSS · WBS WARD-BECK SYSTEMS · M5228 · Mono EQUALIZER MODULE · SCHEMATiC · B 522-02-003 · ISS.-
+- **Title block:** (340, 30)–(432, 45) mm: WBS WARD-BECK SYSTEMS
+- **Wiring (first pass):** 112 connected wire groups from 774 runs; labelled ends: 173 mm → 50, 4776, 33; 126 mm → 4776; 112 mm → 33; 38 mm → UZA; 27 mm → UZA
+
+Every curve, box, word and wire group: [19xx - M522B - P20 - EQ Schematic (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20P20%20-%20EQ%20Schematic%20%28traced%29.json) (the CAD file: `19xx - M522B - P20 - EQ Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 5 words corrected)

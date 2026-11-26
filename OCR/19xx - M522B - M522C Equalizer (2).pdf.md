@@ -21,7 +21,7 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Outlines:** line 38 rings, 884 straight (3,237 mm) / 126 curved (204 mm); text 1,370 rings, 9,523 straight (10,362 mm) / 3,138 curved (5,067 mm)
 - **Words (OCR):** 183 in 68 lines: TECHNICAL DATA · ME228 /M522C · EQUALIZER_MODULE: · Note: Specifications are Dased voltage levels · on · of · 600 cnm · system unless otherwise speciiiec. · Gain: · Unity t/-0.25 dB = · Frequency Response: F/-0.5 aB From 20 Az t0 · 20 KHz With the
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p1 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p1%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p1 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p1%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p1 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 255 in 135 lines: GENERAL · 11522E M5ZZC · ECUALIZER · MODLLE: · Tne M5228 MEZZC Mono and · Stereo Ecualizers operate · in conjunction · M520 and · with the · M5zi scries OT · Input · Voclles
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p2 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p2%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p2 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p2%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p2 (t
 - **Outlines:** line 95 rings, 1,049 straight (3,396 mm) / 190 curved (254 mm); text 1,902 rings, 14,126 straight (15,741 mm) / 4,021 curved (6,108 mm)
 - **Words (OCR):** 264 in 106 lines: CIRcUII · DESCRIPT ION · M522E MSZZC · EQUALLZER_MODULE: · Tne ef: channel 0f the · M522C Stereo Equalizer wi be described · This description also apo/ ies the M5228 Mono · to · Equalizer _ · Lreut · An actively balancec differential input provided by UIA and · is
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p3 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p3%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p3 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p3%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -50,7 +50,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p3 (t
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (222.0, 250.1)
 - **Words (OCR):** 271 in 136 lines: IZ=:"' · OU!..-=::: · ~rr lif · 'J29 · lo" · CU I/'xIo~: contro 1'1.. · en · :>II · h'C /lI~ · Ih · SA 1._i · ~!se"""
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p4 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p4%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p4 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p4%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p4 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 66 in 30 lines: CIRCUI · :::f.l >TIOtl · Po · SUO!;>I\, Oec;cu:> inc · Th · "oil suo:>ly vO Il · d...:oupl.,.d · :he SC'I" les dftcoo!;> leo-s · =Il.'~ $ets he de<;ouol ef' · ell Ih rou · ic.,. n."W<r" · Bi<
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p5 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p5%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p5 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p5%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p5 (t
 - **Closed boxes:** 156; named: II
 - **Words (OCR):** 23 in 16 lines: :UII · Mit · II · i1T · II · 1(){Jlfz · 111111 · LOW FREOUENCY SECTION · BOOST/CU · dB · FR£ ENCY: · 30 Hz TO 200 Hz
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p6 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p6%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p6 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p6%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p6 (t
 - **Closed boxes:** 90
 - **Words (OCR):** 28 in 17 lines: M5228 ,M5 Z2C · L.I ZEi=l MODUL;;S · ,oS · 15 · 'OIl, · 'kH, · MID · FREOU ENCY SECTION 11 · BOOST/CU · ±15 · ea · FREQUtNCY:
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p7 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p7%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p7 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p7%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p7 (t
 - **Closed boxes:** 129; named: -9f--+-+++; I--I-t-ift-
 - **Words (OCR):** 43 in 20 lines: RE QUENCY '<ES ONSO: CHA RACT ER ST CS · M5 22S /M5 Z2C EQUAL ZE MODUL ES · -9f--+-+++ · I--I-t-ift- · lO · 201 1r · lOll-ii: · Hl< · 20k · 12 · MID FRE QUENCY SECTION · BOOST/CUT;
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p8 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p8%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p8 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p8%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p8 (t
 - **Closed boxes:** 153; named: II; II; II; II
 - **Words (OCR):** 34 in 25 lines: ZI-i'l · 'WI ST · n0 C1" · :11''1;)/ S008 · NOll:l3S ;,.:JN3f1 03Cl.::l · IH · Z1- · I'!4d- · 8?O · II · II · II
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p9 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p9%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p9 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p9%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p9 (t
 - **Dots (junctions):** 4
 - **Words (OCR):** 188 in 105 lines: M5 22B MONO EQUAL ZER MODUL · :>A;I; · OEseR Tl ON · MF PART NUMBER · Ca · ro · to t.F /25 · Ke"' · T3 9QCI06M025AS · to · 25 · Ph li
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p10 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p10%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p10 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p10%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -121,7 +121,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p10 (
 - **Outlines:** line 415 rings, 3,480 straight (6,153 mm) / 908 curved (1,333 mm); text 595 rings, 4,186 straight (4,660 mm) / 1,199 curved (1,808 mm)
 - **Words (OCR):** 84 in 60 lines: WA · STSMS LT · ;>ARTS LI ST · ~22 MONO E'::lUALIZ ER MQOULE · PART · NUMBE", · PART · DESCi'l IPTION · ce · N400 · Diude · 8i
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p11 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p11%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p11 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p11%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -131,7 +131,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p11 (
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (196.5, 372.5)
 - **Words (OCR):** 89 in 65 lines: PARTS LIST · M5228 MONO EQUAL ZER MODUL · Meo PAR NUMBER · DESC::l IPT ION · Meo · 1!4W · no · il · CR25 · 15K · 2~0 · ,,20
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p12 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p12%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p12 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p12%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p12 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 123 in 69 lines: P,<,RT LIS · 522 · ""OND EQUAL IZER MODUL · SCELLA NSOLJS COMPONE'lT · OESCRI TI ON · MeG · MF PA RT NUMBE · ED Mo unlina Brilc"ct · was · Kn · CB I"c>< · 0:3 525
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p13 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p13%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p13 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p13%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p13 (
 - **Closed boxes:** 22; named: to; rz; ac; 22
 - **Words (OCR):** 69 in 43 lines: C~NNE:T OR · LAYO UT · SHI RJ · 11.: 1/,",0 1'110 · 1'4PUT · DI · BALAIIC · INPUT · INP UT · OU T~J · RD)' · EF VQ'IO
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p14 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p14%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p14 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p14%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -162,7 +162,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p14 (
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (273.9, 89.3), r 1.7 @ (39.8, 125.7), r 1.7 @ (192.9, 110.8)
 - **Words (OCR):** 199 in 121 lines: IRC IT OESCR IPT ION · A14_ 152/SA14_1 SZA FIL TER ASSEM8L IES · se<:::1><' · ib · The righl ch"n el · ~e,.,;ales in · ~Hi<: · mll nn · In · ch · nn.. · l<~s
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p15 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p15%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p15 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p15%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p15 (
 - **Outlines:** line 311 rings, 2,557 straight (5,382 mm) / 625 curved (896 mm); text 1,534 rings, 11,270 straight (12,637 mm) / 3,449 curved (5,241 mm)
 - **Words (OCR):** 213 in 122 lines: ARTS LIST · SAI4_1~2A MONO FI LT:::" ASS:::MBL · ;>A;<7 · O;::SCR IP TION · MFG · MF PAR ~lU · ColP",C; tor · /10 · rn · OAS' · CO · lCO
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p16 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p16%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p16 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p16%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -180,7 +180,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p16 (
 - **Outlines:** line 480 rings, 3,795 straight (6,292 mm) / 970 curved (1,372 mm); text 473 rings, 2,990 straight (3,181 mm) / 920 curved (1,289 mm)
 - **Words (OCR):** 53 in 42 lines: Me'NO ILl!::=! · A~S::~~ · O:::::.'l. TI ON · PART NUMB ER · zc ;'Jo in · IO" · I:C · 3e,., · 3""9 · IC · i"'l · CO
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p17 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p17%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p17 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p17%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p17 (
 - **Closed boxes:** 1
 - **Words (OCR):** 46 in 26 lines: vy · ?'-''lTS · IST · "'5~::t,(B LY · SAl ol. · YONa · IL TEq · ISC L"NE · Ol · O'::5C;:l lPTI Dr · Pi · ip
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p18 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p18%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p18 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p18%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -202,7 +202,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p18 (
 - **Words (OCR):** 94 in 70 lines: cosrso, · WF OJ 300S1 CONTRa.. · iV" OJi/300ST · ell · ".7ltO · 10 · 00 · 00 · AU. JII![SSTOItS NIl( · AIC) · AU. Cl'ACTOItS IIf.£ · C1~ SP£OFO.
 - **Title block:** (366, 34)–(432, 46) mm: (VVSs) WARD -BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p19 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p19%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p19 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p19%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -213,7 +213,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p19 (
 - **Closed boxes:** 3; named: ·52 ru. ASSUl3l.
 - **Words (OCR):** 105 in 84 lines: C1 · rJ. · {!Ii( · 'IV · ·'IV · ""J3N · LMaJ JN · 100 · WONO · WOM · C3 · U2A
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p20 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p20%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p20 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p20%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -226,7 +226,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p20 (
 - **Words (OCR):** 18 in 12 lines: 10/25 · .....·8:.EI::B:J 14-152 · (was) WARO-BECK SYSTEMS · ps · SA14-152A · BS · MONO FILTER ASSEMBLY · COMPONENT LAYOUT · tp · ht · 14-152-06-002 · ISS
 - **Title block:** (210, 58)–(329, 81) mm: (was) WARO-BECK SYSTEMS · ps
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p21 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p21%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p21 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p21%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -239,7 +239,7 @@ Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p21 (
 - **Words (OCR):** 35 in 27 lines: Jl- · 10lP · 1Ui · os. · 51( · Ul' · CJtl · lCX · lIZl · lI'.!! R7'!1 · alZ~ · -0-0-0
 - **Title block:** (252, 53)–(359, 75) mm: ps · (was) WARO-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p22 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20(2)%20p22%20(traced).json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - M522C Equalizer (2) p22 (traced).json](../MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer%20%282%29%20p22%20%28traced%29.json) (the CAD file: `19xx - M522B - M522C Equalizer (2) p22 (traced).dxf`).
 
 ## Full text
 

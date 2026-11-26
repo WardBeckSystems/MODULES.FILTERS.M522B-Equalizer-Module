@@ -11,6 +11,19 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Size:** 176,847 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 330 × 432 mm, 1240 × 1623 px traced (0.266 mm/px)
+- **Ink extent:** 11–322 mm across, 8–421 mm up
+- **Outlines:** line 536 rings, 4,899 straight (8,746 mm) / 1,493 curved (2,046 mm); text 331 rings, 2,694 straight (3,434 mm) / 923 curved (1,351 mm); tb 15 rings, 163 straight (312 mm) / 30 curved (40.5 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.7 @ (22.7, 183.4), r 2.7 @ (23.5, 411.3)
+- **Closed boxes:** 7; named: Pi- 4o ICP 02 Ris 725 C29 722 72 Ri C6 5
+- **Dots (junctions):** 4
+- **Words (OCR):** 54 in 46 lines: Pi- · 4o ICP · 02 · Ris · 722 · 725 · C29 · 72 · Ri · 35 · C6 · 727
+- **Title block:** (166, 56)–(330, 320) mm: ISSUE · 40/25 · WBS WARD-BECk SYSTEMS
+
+Every curve, box, word and wire group: [19xx - M522B - P21 - Filter Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20P21%20-%20Filter%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M522B - P21 - Filter Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

@@ -11,6 +11,19 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Size:** 270,620 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 362 × 432 mm, 1546 × 1844 px traced (0.234 mm/px)
+- **Ink extent:** 11–353 mm across, 10–415 mm up
+- **Outlines:** line 772 rings, 8,102 straight (13,307 mm) / 2,254 curved (2,736 mm); text 521 rings, 4,113 straight (4,415 mm) / 1,246 curved (1,553 mm); tb 96 rings, 969 straight (1,288 mm) / 278 curved (350 mm)
+- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.9 @ (87.7, 180.3), r 2.4 @ (283.2, 401.0), r 2.4 @ (124.1, 402.0), r 2.4 @ (123.7, 200.7)
+- **Closed boxes:** 29; named: DFF
+- **Dots (junctions):** 3
+- **Words (OCR):** 86 in 77 lines: 38 · Ji- · 1502 · LBS · 72527 · R17 546 · 222 · Ris · 220 · 26 · 3152 · Sk
+- **Title block:** (212, 51)–(359, 341) mm: WBS · R90 · CANADA · 14-151 · ISSUE · 2781 · C-a · Res @k · EaFF 0 M/i00 · 27 · R82 · WBS WARD-BECK SYSTEMS
+
+Every curve, box, word and wire group: [19xx - M522B - P22 - Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20P22%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M522B - P22 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

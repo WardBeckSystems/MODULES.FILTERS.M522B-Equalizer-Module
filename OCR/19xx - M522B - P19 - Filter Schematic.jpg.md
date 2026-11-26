@@ -11,6 +11,20 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Size:** 247,714 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 241 mm, 2000 × 1116 px traced (0.216 mm/px)
+- **Ink extent:** 4–428 mm across, 8–212 mm up
+- **Outlines:** line 750 rings, 6,623 straight (9,843 mm) / 1,689 curved (1,994 mm); text 117 rings, 783 straight (853 mm) / 243 curved (332 mm); tb 2 rings, 38 straight (108 mm) / 0 curved (0.0 mm)
+- **Centre lines:** 6,341 paths (133 closed); straight 6,434 mm, curved 131 mm; horizontal 2,060 mm, vertical 1,832 mm, diagonal 2,541 mm
+- **Circles and arcs:** 2 circles, 42 arcs; largest r 0.7 @ (157.5, 139.5), r 0.7 @ (55.9, 86.1)
+- **Dots (junctions):** 1
+- **Words (OCR):** 15 in 14 lines: P1c; · Via · WBIN · Vz · Pe7 · PJ-5.6 · Ccu · SELECT · WBS WARD-BECK SYSTEMS · SA 14-152A · MonO FILTER ASSEMBLY · SCHEMATIC
+- **Title block:** (342, 32)–(432, 47) mm: WBS WARD-BECK SYSTEMS
+- **Wiring (first pass):** 83 connected wire groups from 629 runs, 2 dotted junctions; labelled ends: 110 mm → WBIN; 61 mm → Pe7; 60 mm → Via; 45 mm → WBIN, Vz; 44 mm → Via
+
+Every curve, box, word and wire group: [19xx - M522B - P19 - Filter Schematic (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20P19%20-%20Filter%20Schematic%20%28traced%29.json) (the CAD file: `19xx - M522B - P19 - Filter Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 6 words corrected)

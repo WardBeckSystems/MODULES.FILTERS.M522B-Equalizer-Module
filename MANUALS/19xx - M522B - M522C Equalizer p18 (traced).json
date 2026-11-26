@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/7d8e35d6ef4c02c7-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "22"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 7.3, 330.3, 431.9],
+ "outlines": {
+  "line": {"rings": 210, "straight": {"n": 1826, "mm": 4311.6}, "curved": {"n": 383, "mm": 492.6}},
+  "text": {"rings": 308, "straight": {"n": 2410, "mm": 2728.2}, "curved": {"n": 654, "mm": 1014.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [142.5, 382.1, 183.9, 389.5], "text": "PARTS LiST"},
+   {"mm": [100.4, 368.8, 158.5, 376.0], "text": "SATL-1SZ4 MONO"},
+   {"mm": [161.1, 367.5, 226.0, 376.0], "text": "FiLtER ASSEMBLY"},
+   {"mm": [111.6, 354.1, 167.8, 361.0], "text": "~ISCELLANEOUS"},
+   {"mm": [169.9, 351.7, 215.7, 363.0], "text": "COMPONENIS"},
+   {"mm": [75.3, 325.8, 123.7, 333.9], "text": "DESCRiPTiON"},
+   {"mm": [179.6, 324.9, 194.7, 331.9], "text": "MF;"},
+   {"mm": [248.7, 324.9, 267.1, 331.4], "text": "PART"},
+   {"mm": [83.6, 311.1, 139.3, 319.0], "text": "Pin Dip Socket"},
+   {"mm": [179.6, 311.3, 194.7, 317.8], "text": "AMP"},
+   {"mm": [231.0, 310.5, 261.2, 317.4], "text": "620463-2"},
+   {"mm": [26.3, 41.9, 120.9, 51.2], "text": "7B5 recommends the usc"},
+   {"mm": [123.5, 39.3, 284.8, 49.1], "text": "of replacement parts made the specified"},
+   {"mm": [223.9, 39.9, 234.0, 46.9], "text": "by"},
+   {"mm": [26.1, 35.0, 135.4, 44.2], "text": "tanufacturers for continued"},
+   {"mm": [137.5, 32.2, 256.5, 41.8], "text": "optimum equipment performance:"},
+   {"mm": [152.2, 6.0, 164.7, 13.0], "text": "2-7"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–330 mm across, 7–432 mm up",
+  "- **Outlines:** line 210 rings, 1,826 straight (4,312 mm) / 383 curved (493 mm); text 308 rings, 2,410 straight (2,728 mm) / 654 curved (1,014 mm)",
+  "- **Words (OCR):** 31 in 17 lines: PARTS LiST · SATL-1SZ4 MONO · FiLtER ASSEMBLY · ~ISCELLANEOUS · COMPONENIS · DESCRiPTiON · MF; · PART · Pin Dip Socket · AMP · 620463-2 · 7B5 recommends the usc"
+ ]
+}

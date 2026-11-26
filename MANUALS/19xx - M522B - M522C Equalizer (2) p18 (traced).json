@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/bd5a3796ce1e08fe-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "22"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 7.3, 330.3, 431.9],
+ "outlines": {
+  "line": {"rings": 375, "straight": {"n": 3252, "mm": 5907.9}, "curved": {"n": 751, "mm": 1074.3}},
+  "text": {"rings": 190, "straight": {"n": 1316, "mm": 1407.2}, "curved": {"n": 320, "mm": 476.3}}
+ },
+ "circles": [{"c": [126.5, 45.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [156.1, 356.2, 158.3, 358.8], "w": 2.2, "h": 2.6, "from": "ring"}],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [15.3, 426.8, 22.7, 431.4], "text": "vy"},
+   {"mm": [142.5, 382.1, 162.8, 387.7], "text": "?'-''lTS"},
+   {"mm": [172.9, 382.1, 182.2, 387.7], "text": "IST"},
+   {"mm": [191.3, 367.9, 224.3, 373.7], "text": "\"'5~::t,(B LY"},
+   {"mm": [100.8, 367.9, 115.9, 373.4], "text": "SAl ol."},
+   {"mm": [139.9, 367.9, 155.9, 373.4], "text": "YONa"},
+   {"mm": [167.3, 367.9, 185.7, 373.4], "text": "IL TEq"},
+   {"mm": [118.5, 353.2, 153.9, 359.0], "text": "ISC L\"NE"},
+   {"mm": [189.1, 353.4, 195.2, 358.9], "text": "Ol"},
+   {"mm": [76.4, 325.1, 120.5, 330.7], "text": "O'::5C;:l lPTI Dr"},
+   {"mm": [84.2, 310.9, 90.5, 315.7], "text": "Pi"},
+   {"mm": [105.6, 310.9, 111.4, 315.7], "text": "ip"},
+   {"mm": [116.8, 310.7, 135.4, 316.4], "text": "5ox'<e"},
+   {"mm": [284.8, 57.2, 305.7, 66.3], "text": "ps"},
+   {"mm": [273.5, 45.8, 295.4, 57.3], "text": "BS"},
+   {"mm": [52.0, 41.5, 89.8, 47.0], "text": "ecommend\""},
+   {"mm": [115.1, 41.5, 175.1, 47.0], "text": "se of \"\"Pl emen"},
+   {"mm": [187.4, 41.5, 190.9, 47.0], "text": "lt"},
+   {"mm": [205.8, 41.5, 277.0, 47.0], "text": "made by hol speci fi"},
+   {"mm": [29.4, 34.5, 74.7, 40.1], "text": "-linU fll CtU,..."},
+   {"mm": [90.2, 34.5, 112.9, 40.1], "text": "or con"},
+   {"mm": [125.0, 34.5, 180.1, 40.1], "text": "ued opt mum eq"},
+   {"mm": [192.6, 34.5, 204.7, 40.1], "text": "men"},
+   {"mm": [220.4, 34.5, 256.5, 40.1], "text": "rforma nce."},
+   {"mm": [251.1, 23.5, 269.4, 30.7], "text": "tp"},
+   {"mm": [244.0, 16.4, 264.9, 23.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–330 mm across, 7–432 mm up",
+  "- **Outlines:** line 375 rings, 3,252 straight (5,908 mm) / 751 curved (1,074 mm); text 190 rings, 1,316 straight (1,407 mm) / 320 curved (476 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (126.5, 45.2)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 46 in 26 lines: vy · ?'-''lTS · IST · \"'5~::t,(B LY · SAl ol. · YONa · IL TEq · ISC L\"NE · Ol · O'::5C;:l lPTI Dr · Pi · ip"
+ ]
+}

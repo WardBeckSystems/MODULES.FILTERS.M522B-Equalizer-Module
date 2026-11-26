@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer (2).pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/bd5a3796ce1e08fe-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "22"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 2.1, 331.6, 430.3],
+ "outlines": {
+  "line": {"rings": 345, "straight": {"n": 2552, "mm": 5064.0}, "curved": {"n": 671, "mm": 920.0}},
+  "text": {"rings": 311, "straight": {"n": 2128, "mm": 2310.3}, "curved": {"n": 682, "mm": 1065.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 66,
+  "lines": [
+   {"mm": [123.9, 389.5, 147.7, 394.8], "text": "CIRCUI"},
+   {"mm": [169.7, 389.5, 202.3, 394.8], "text": ":::f.l >TIOtl"},
+   {"mm": [30.0, 347.8, 37.4, 353.3], "text": "Po"},
+   {"mm": [54.6, 347.8, 120.3, 353.3], "text": "SUO!;>I\\, Oec;cu:> inc"},
+   {"mm": [30.0, 331.6, 36.9, 337.1], "text": "Th"},
+   {"mm": [71.7, 331.6, 133.9, 337.1], "text": "\"oil suo:>ly vO Il"},
+   {"mm": [164.7, 331.6, 198.6, 337.1], "text": "d...:oupl.,.d"},
+   {"mm": [217.6, 331.6, 296.6, 337.1], "text": ":he SC'I\" les dftcoo!;> leo-s"},
+   {"mm": [211.8, 323.4, 296.0, 332.1], "text": "=Il.'~ $ets he de<;ouol ef'"},
+   {"mm": [29.6, 324.3, 61.7, 329.8], "text": "ell Ih rou"},
+   {"mm": [105.6, 324.3, 151.1, 329.8], "text": "ic.,. n.\"W<r\""},
+   {"mm": [181.8, 324.3, 188.3, 329.8], "text": "Bi<"},
+   {"mm": [28.7, 318.5, 92.4, 324.0], "text": "but;> UI vo t.ll!;e 10"},
+   {"mm": [109.7, 318.2, 114.9, 323.8], "text": "IS"},
+   {"mm": [120.3, 318.5, 136.9, 324.0], "text": "V0 4l5"},
+   {"mm": [30.0, 302.9, 41.2, 308.4], "text": "The"},
+   {"mm": [73.2, 302.9, 109.2, 308.4], "text": "voll 5uo;>"},
+   {"mm": [132.1, 302.9, 145.5, 308.4], "text": "llllo"},
+   {"mm": [156.1, 302.9, 179.6, 308.4], "text": "al'p e.ll\""},
+   {"mm": [190.9, 302.9, 194.5, 308.4], "text": ".ll"},
+   {"mm": [204.5, 302.9, 266.4, 308.4], "text": "pi ns 21 and 19"},
+   {"mm": [272.5, 302.9, 296.2, 308.7], "text": "of In.,"},
+   {"mm": [29.6, 296.2, 171.9, 301.7], "text": "modu le c:on ...e<;:o,. \"nd ne c:OtNIlon ,..Iu"},
+   {"mm": [184.4, 296.2, 188.0, 301.7], "text": "Il"},
+   {"mm": [200.6, 296.2, 206.6, 301.7], "text": "in"},
+   {"mm": [211.8, 296.0, 223.2, 302.0], "text": "ZOo"},
+   {"mm": [284.8, 57.2, 305.7, 66.3], "text": "ps"},
+   {"mm": [273.5, 45.8, 295.4, 57.3], "text": "BS"},
+   {"mm": [251.1, 23.5, 269.4, 30.7], "text": "tp"},
+   {"mm": [244.0, 16.4, 264.9, 23.6], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [193.8, 283.8], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–332 mm across, 2–430 mm up",
+  "- **Outlines:** line 345 rings, 2,552 straight (5,064 mm) / 671 curved (920 mm); text 311 rings, 2,128 straight (2,310 mm) / 682 curved (1,066 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 66 in 30 lines: CIRCUI · :::f.l >TIOtl · Po · SUO!;>I\\, Oec;cu:> inc · Th · \"oil suo:>ly vO Il · d...:oupl.,.d · :he SC'I\" les dftcoo!;> leo-s · =Il.'~ $ets he de<;ouol ef' · ell Ih rou · ic.,. n.\"W<r\" · Bi<"
+ ]
+}

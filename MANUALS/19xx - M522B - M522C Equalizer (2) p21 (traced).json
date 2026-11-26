@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/FILTERS/M522B/MANUALS/19xx - M522B - M522C Equalizer (2).pdf",
+ "page": 21,
+ "version": 1,
+ "trace": "_traces/bd5a3796ce1e08fe-p21.svg",
+ "sheet": {
+  "number": "B 14-152-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1528, 2000],
+  "mm": [329.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "21", "pages": "22"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 8.0, 321.9, 421.5],
+ "outlines": {
+  "line": {"rings": 753, "straight": {"n": 7638, "mm": 10913.3}, "curved": {"n": 2238, "mm": 2681.8}},
+  "text": {"rings": 129, "straight": {"n": 1382, "mm": 1664.5}, "curved": {"n": 328, "mm": 413.1}},
+  "tb": {"rings": 4, "straight": {"n": 45, "mm": 50.1}, "curved": {"n": 10, "mm": 14.1}}
+ },
+ "circles": [
+  {"c": [193.3, 40.5], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [206.6, 40.2], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [205.3, 29.6], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [23.4, 411.4], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [203.4, 182.1], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [204.5, 410.6], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [205.3, 29.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.8, 375.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [12.3, 173.3, 214.9, 420.4], "w": 202.6, "h": 247.1, "from": "ring", "words": ["10/25", ".....·8:.EI::B:J", "14-152"]},
+  {"mm": [60.9, 406.1, 168.0, 415.9], "w": 107.1, "h": 9.8, "from": "ring"},
+  {"mm": [100.0, 362.9, 102.6, 366.4], "w": 2.6, "h": 3.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [35.0, 189.8, 47.7, 194.1], "text": "10/25"},
+   {"mm": [85.7, 174.7, 179.4, 185.9], "text": ".....·8:.EI::B:J 14-152"},
+   {"mm": [167.3, 65.2, 322.3, 76.2], "text": "(was) WARO-BECK SYSTEMS"},
+   {"mm": [280.5, 57.6, 301.2, 66.5], "text": "ps"},
+   {"mm": [216.3, 46.9, 275.9, 54.3], "text": "SA14-152A"},
+   {"mm": [269.2, 46.4, 290.8, 57.7], "text": "BS"},
+   {"mm": [183.7, 35.4, 309.6, 42.6], "text": "MONO FILTER ASSEMBLY"},
+   {"mm": [196.7, 24.4, 292.5, 31.6], "text": "COMPONENT LAYOUT"},
+   {"mm": [247.2, 24.2, 265.3, 31.4], "text": "tp"},
+   {"mm": [240.1, 17.3, 260.8, 24.2], "text": "ht"},
+   {"mm": [179.2, 9.3, 256.5, 16.5], "text": "14-152-06-002"},
+   {"mm": [297.7, 7.8, 313.5, 15.0], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [209.9, 57.6, 329.0, 80.8], "from": "title-block words (training set)", "text": ["(was) WARO-BECK SYSTEMS", "ps"]},
+ "dots": [
+  {"c": [74.6, 411.1], "r": 1.1, "lines": 0},
+  {"c": [122.1, 411.1], "r": 1.1, "lines": 0},
+  {"c": [127.3, 410.9], "r": 1.1, "lines": 0},
+  {"c": [47.6, 393.4], "r": 0.6, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout B 14-152-06-002, size B 330 × 432 mm, 1528 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–322 mm across, 8–422 mm up",
+  "- **Outlines:** line 753 rings, 7,638 straight (10,913 mm) / 2,238 curved (2,682 mm); text 129 rings, 1,382 straight (1,664 mm) / 328 curved (413 mm); tb 4 rings, 45 straight (50.1 mm) / 10 curved (14.1 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 3.2 @ (193.3, 40.5), r 3.2 @ (206.6, 40.2), r 3.2 @ (205.3, 29.6), r 2.7 @ (23.4, 411.4)",
+  "- **Closed boxes:** 3; named: 10/25 .....·8:.EI::B:J 14-152",
+  "- **Dots (junctions):** 4",
+  "- **Words (OCR):** 18 in 12 lines: 10/25 · .....·8:.EI::B:J 14-152 · (was) WARO-BECK SYSTEMS · ps · SA14-152A · BS · MONO FILTER ASSEMBLY · COMPONENT LAYOUT · tp · ht · 14-152-06-002 · ISS",
+  "- **Title block:** (210, 58)–(329, 81) mm: (was) WARO-BECK SYSTEMS · ps"
+ ]
+}

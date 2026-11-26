@@ -1,0 +1,79 @@
+{
+ "index": 4,
+ "code": "M522B",
+ "title": "M522B ST Broadcast EQ",
+ "category": "Equalizers",
+ "description": "Stereo broadcast mastering equalizer with ultra-low phase distortion",
+ "circuitSummary": "Master control room stereo equalizer with ganged precision rotary potentiometers, high-voltage dual-rail discrete op-amps, and transparent phase coherence.",
+ "nodes": [
+  {
+   "id": "in_l",
+   "label": "Stereo In (L/R)",
+   "type": "input",
+   "x": 60,
+   "y": 80
+  },
+  {
+   "id": "matched",
+   "label": "Matched Dual Buffer",
+   "type": "amp",
+   "x": 210,
+   "y": 80
+  },
+  {
+   "id": "st_eq",
+   "label": "Stereo 4-Band Core",
+   "type": "filter",
+   "x": 410,
+   "y": 80
+  },
+  {
+   "id": "line_drv",
+   "label": "Class-A Driver",
+   "type": "amp",
+   "x": 590,
+   "y": 80
+  },
+  {
+   "id": "out_l",
+   "label": "Stereo Bus Out",
+   "type": "output",
+   "x": 710,
+   "y": 80
+  }
+ ],
+ "wires": [
+  {
+   "from": "in_l",
+   "to": "matched"
+  },
+  {
+   "from": "matched",
+   "to": "st_eq"
+  },
+  {
+   "from": "st_eq",
+   "to": "line_drv"
+  },
+  {
+   "from": "line_drv",
+   "to": "out_l"
+  }
+ ],
+ "clap": {
+  "id": "ca.wbsps.m522b_st_console_eq",
+  "name": "Ward-Beck M522B ST Broadcast EQ",
+  "strings": [
+   "ca.wbsps.m522b_st_console_eq",
+   "Ward-Beck M522B ST Broadcast EQ",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "High-headroom ST-series 4-band console EQ with Bi-FET discrete op-amp saturation"
+  ]
+ },
+ "suite_index": 4,
+ "source": "2030.env/vst/M522B_ST_Console_EQ"
+}

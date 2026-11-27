@@ -1,17 +1,17 @@
-# M522B · Filters
+# M522B Equalizer Module · Filters
 
 Ward-Beck Systems M522B. Wiki page: [M522B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M522B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 151 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 14 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 152 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 37 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -64,15 +64,13 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWDVCQnU2X0V6eTg/view?resourcekey=0-SkwzH6_SjKnjdoEZzoZ2Kw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWDVCQnU2X0V6eTg&resourcekey=0-SkwzH6_SjKnjdoEZzoZ2Kw" width="240" alt="19xx - M522B - wbsps - module - m522b equlizer 007.jpg"></a><br><sub>19xx - M522B - wbsps - module - m522b equlizer 007</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [19xx - M522B - wbsps - module - m522b equlizer 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKSUk1MGx3aDlfN0U/view?resourcekey=0-ZC8ZfQ0pAylYtpzrMwK4Vw) · [19xx - M522B - wbsps - module - m522b equlizer 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKbk5LaG16RWhpdmc/view?resourcekey=0-hjDqfBkj8OT_W6ovw1UrOA) · [19xx - M522B - wbsps - module - m522b equlizer 003_small](https://drive.google.com/file/d/0B0yR0b5T78SKLVl6eU9QeXFkWWc/view?resourcekey=0-W3Ex7vyyZVp9h5J6KVFfqw) · [19xx - M522B - wbsps - module - m522b equlizer 004_small](https://drive.google.com/file/d/0B0yR0b5T78SKLVo1REYzU2RxNm8/view?resourcekey=0-hJHM0uDbwGuvMsI57h3hew) · [19xx - M522B - wbsps - module - m522b equlizer 005_small](https://drive.google.com/file/d/0B0yR0b5T78SKeGIzZEJScWZpenc/view?resourcekey=0-lczs4hb9x9wDQ41DnC9bAw) · [19xx - M522B - wbsps - module - m522b equlizer 006_small](https://drive.google.com/file/d/0B0yR0b5T78SKM2Z2QXN5bHlFbUU/view?resourcekey=0-ijxHa-pHWWphrViBn-D8TA) · [19xx - M522B - wbsps - module - m522b equlizer 007_small](https://drive.google.com/file/d/0B0yR0b5T78SKdlRVSzZMNUowOHM/view?resourcekey=0-8eMviZF2aPRpmrbMvx8XXw)
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFhMS0kzOVFva1U/view?resourcekey=0-iru-eFc-A_vl2ZrI3aQliQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFhMS0kzOVFva1U&resourcekey=0-iru-eFc-A_vl2ZrI3aQliQ" width="240" alt="19xx - M522B - P19 - Filter Schematic.jpg"></a><br><sub>19xx - M522B - P19 - Filter Schematic</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLTYwRFRzTE9RYlU/view?resourcekey=0-9yJuJzaDh32Rwmc0Fcu99g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLTYwRFRzTE9RYlU&resourcekey=0-9yJuJzaDh32Rwmc0Fcu99g" width="240" alt="19xx - M522B - P20 - EQ Schematic.jpg"></a><br><sub>19xx - M522B - P20 - EQ Schematic</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT3NBRlh5MTlOTDg/view?resourcekey=0-35TtBaz8as-yDxXaTPQcfg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT3NBRlh5MTlOTDg&resourcekey=0-35TtBaz8as-yDxXaTPQcfg" width="240" alt="19xx - M522B - P21 - Filter Component Layout.jpg"></a><br><sub>19xx - M522B - P21 - Filter Component Layout</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNE5TcDJMSVF6ZW8/view?resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNE5TcDJMSVF6ZW8&resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" width="240" alt="19xx - M522B - P22 - Component Layout.jpg"></a><br><sub>19xx - M522B - P22 - Component Layout</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFhMS0kzOVFva1U/view?resourcekey=0-iru-eFc-A_vl2ZrI3aQliQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFhMS0kzOVFva1U&resourcekey=0-iru-eFc-A_vl2ZrI3aQliQ" width="240" alt="19xx - M522B - P19 - Filter Schematic.jpg"></a><br><sub>19xx - M522B - P19 - Filter Schematic · <a href="SCHEMATICS/19xx%20-%20M522B%20-%20P19%20-%20Filter%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLTYwRFRzTE9RYlU/view?resourcekey=0-9yJuJzaDh32Rwmc0Fcu99g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLTYwRFRzTE9RYlU&resourcekey=0-9yJuJzaDh32Rwmc0Fcu99g" width="240" alt="19xx - M522B - P20 - EQ Schematic.jpg"></a><br><sub>19xx - M522B - P20 - EQ Schematic · <a href="SCHEMATICS/19xx%20-%20M522B%20-%20P20%20-%20EQ%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT3NBRlh5MTlOTDg/view?resourcekey=0-35TtBaz8as-yDxXaTPQcfg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT3NBRlh5MTlOTDg&resourcekey=0-35TtBaz8as-yDxXaTPQcfg" width="240" alt="19xx - M522B - P21 - Filter Component Layout.jpg"></a><br><sub>19xx - M522B - P21 - Filter Component Layout · <a href="SCHEMATICS/19xx%20-%20M522B%20-%20P21%20-%20Filter%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNE5TcDJMSVF6ZW8/view?resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNE5TcDJMSVF6ZW8&resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" width="240" alt="19xx - M522B - P22 - Component Layout.jpg"></a><br><sub>19xx - M522B - P22 - Component Layout · <a href="SCHEMATICS/19xx%20-%20M522B%20-%20P22%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M522B - P20 - EQ Schematic.jpg`
@@ -82,7 +80,7 @@ Not on Google Drive yet: `M522B - P20 - EQ Schematic.jpg`
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKX3RqRnJXRzF5VGM/view?resourcekey=0-ImElcit3UxQFUSQunl-rag" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKX3RqRnJXRzF5VGM&resourcekey=0-ImElcit3UxQFUSQunl-rag" width="240" alt="19xx - M522B - P14 - Pinouts.jpg"></a><br><sub>19xx - M522B - P14 - Pinouts</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKX3RqRnJXRzF5VGM/view?resourcekey=0-ImElcit3UxQFUSQunl-rag" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKX3RqRnJXRzF5VGM&resourcekey=0-ImElcit3UxQFUSQunl-rag" width="240" alt="19xx - M522B - P14 - Pinouts.jpg"></a><br><sub>19xx - M522B - P14 - Pinouts · <a href="PINOUTS/19xx%20-%20M522B%20-%20P14%20-%20Pinouts%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M522B - RTO-144 Connections.pdf`
@@ -136,7 +134,16 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [19xx - M522B - M522C Equalizer p19.kicad_sch](KICAD/19xx%20-%20M522B%20-%20M522C%20Equalizer%20p19.kicad_sch)
 - [19xx - M522B - M522C Equalizer p20.kicad_sch](KICAD/19xx%20-%20M522B%20-%20M522C%20Equalizer%20p20.kicad_sch)
+- [19xx - M522B - P19 - Filter Schematic.kicad_sch](KICAD/19xx%20-%20M522B%20-%20P19%20-%20Filter%20Schematic.kicad_sch)
+- [19xx - M522B - P20 - EQ Schematic.kicad_sch](KICAD/19xx%20-%20M522B%20-%20P20%20-%20EQ%20Schematic.kicad_sch)
+- [M522B - P20 - EQ Schematic.kicad_sch](KICAD/M522B%20-%20P20%20-%20EQ%20Schematic.kicad_sch)
 - [M522B.kicad_sym](KICAD/M522B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [cpp](SOFTWARE/cpp)
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

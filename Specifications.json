@@ -1,0 +1,204 @@
+{
+ "module": "M522B",
+ "title": "ME228 /M522C EQUALIZER_MODULE:",
+ "source": {
+  "file": "MANUALS/19xx - M522B - M522C Equalizer.pdf",
+  "page": 1
+ },
+ "ocr_quality": 0.85,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity t/-0.25 dB =",
+   "quantities": [
+    {
+     "value": -0.25,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "F/-0.5 aB From 20 Az to 20 KHz With the ecualizer inserted ena cui/boost controls in tne cetent position",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "KHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-90 cBm absolute (20 Hz to 20 KHz) equalizer cut/boost controls in the cetent position",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "KHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less [han 0.10 from 20 Hz:0 20 kHz 3: F20 cBm output level Or less. Less [han 0.0190 at kHz 2[ -20 aBm OUIpui level",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "Less than 10 ohms unbalanced.",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Greater than 10k ohms balanced"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "~6dBm nominal +20 @Bm maximum.",
+   "quantities": [
+    {
+     "value": 6,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 50 ohms unbalanced.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "5k ohms or greater."
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "26 dBm nominal +20 @Bm maximum.",
+   "quantities": [
+    {
+     "value": 26,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Greater than 60 dB =",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low numbered input terminal is In phase with [he output terminal with tne equalizing controls in the detent position"
+  },
+  {
+   "name": "Equalization tracking",
+   "key": "equalization_tracking",
+   "text": "Within 0.5 @B"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "-/-25 volts dc (M5228 55 ma, (M522C 80 ma)",
+   "quantities": [
+    {
+     "value": -25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 55,
+     "unit": "ma"
+    },
+    {
+     "value": 80,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "Dimensions: to 60 degrees Celsius. 60\" wide 7.00\" high 6.50\" deep (41 Mm 178 Mm 165 Mm/",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 60,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "Mm"
+    },
+    {
+     "value": 178,
+     "unit": "Mm"
+    },
+    {
+     "value": 165,
+     "unit": "Mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "M5228 M522C IP Ib 0z (0.564 kg nel. 0z (0.624 k9 nela",
+   "quantities": [
+    {
+     "value": 0.564,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

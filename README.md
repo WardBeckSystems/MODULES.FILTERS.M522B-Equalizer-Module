@@ -13,6 +13,47 @@ Ward-Beck Systems M522B. Wiki page: [M522B on WBSps.ca](https://wardbecksystems.
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M522B - M522C Equalizer.pdf](MANUALS/19xx%20-%20M522B%20-%20M522C%20Equalizer.pdf) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity t/-0.25 dB = |
+| **Frequency response** | F/-0.5 aB From 20 Az to 20 KHz With the ecualizer inserted ena cui/boost controls in tne cetent position |
+| **Noise** | -90 cBm absolute (20 Hz to 20 KHz) equalizer cut/boost controls in the cetent position |
+| **Harmonic distortion** | Less [han 0.10 from 20 Hz:0 20 kHz 3: F20 cBm output level Or less. Less [han 0.0190 at kHz 2[ -20 aBm OUIpui level |
+| **Source impedance** | Less than 10 ohms unbalanced. |
+| **Input impedance** | Greater than 10k ohms balanced |
+| **Input level** | ~6dBm nominal +20 @Bm maximum. |
+| **Output impedance** | Less than 50 ohms unbalanced. |
+| **Load impedance** | 5k ohms or greater. |
+| **Output level** | 26 dBm nominal +20 @Bm maximum. |
+| **Channel separation** | Greater than 60 dB = |
+| **Phasing** | The low numbered input terminal is In phase with [he output terminal with tne equalizing controls in the detent position |
+| **Equalization tracking** | Within 0.5 @B |
+| **Power requirements** | -/-25 volts dc (M5228 55 ma, (M522C 80 ma) |
+| **Ambient temperature** | Dimensions: to 60 degrees Celsius. 60&quot; wide 7.00&quot; high 6.50&quot; deep (41 Mm 178 Mm 165 Mm/ |
+| **Weight** | M5228 M522C IP Ib 0z (0.564 kg nel. 0z (0.624 k9 nela |
+
+## Circuit description
+
+From [19xx - M522B - P15.jpg](MANUALS/19xx%20-%20M522B%20-%20P15.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**5414-152/5414-1524 FILTER ASSEMBL JES**
+
+The leif: channel section wil be described_ The rignl channe operates an icentica manner and the mono channe makes ue tne left channe circuitry ony Mic Tre quency Stale Variable Filter The Mid-Frequency state variable Filter comprises an inverting buffer amplifier UIA combining amplifier UIB arid Two low Pa;s ters made 4D U2A, U28 C6.C10 and the externa frequency control R6 Tnc external ectcr switch Sw2 affects the overall end [hereny controlling V5 filter g2in The Mter input is applied P1-2 PI-1 and the Filter output appears The Mid-Frequency #2 stale variable filter made uD their asscialed components C17, Cz1 anc externa Determine the center resonant) frequency this filter 03, Ua and control High Frequency High Pass Filter USA buffers the high pass filter network&lt; from the external cut/poost, contro C26 C27, R28 and external frequency contro RSA determine the corner requency the high pass ter USB buffers the ter frequency ceterminins components from the summing amplifier U3B the main equa zer assembly Low Frequency Low Pass Filter The low frequency shelving network comprises external frequency control R5 R30, C29 and C30 Buffer u6 isolates [he frequency determining components from the equalizers summing amplifier
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

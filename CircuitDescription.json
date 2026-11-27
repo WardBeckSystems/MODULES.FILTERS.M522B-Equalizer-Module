@@ -1,0 +1,19 @@
+{
+ "module": "M522B",
+ "source": {
+  "file": "MANUALS/19xx - M522B - P15.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.81,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "5414-152/5414-1524 FILTER ASSEMBL JES",
+   "paragraphs": [
+    "The leif: channel section wil be described_ The rignl channe operates an icentica manner and the mono channe makes ue tne left channe circuitry ony Mic Tre quency Stale Variable Filter The Mid-Frequency state variable Filter comprises an inverting buffer amplifier UIA combining amplifier UIB arid Two low Pa;s ters made 4D U2A, U28 C6.C10 and the externa frequency control R6 Tnc external ectcr switch Sw2 affects the overall end [hereny controlling V5 filter g2in The Mter input is applied P1-2 PI-1 and the Filter output appears The Mid-Frequency #2 stale variable filter made uD their asscialed components C17, Cz1 anc externa Determine the center resonant) frequency this filter 03, Ua and control High Frequency High Pass Filter USA buffers the high pass filter network< from the external cut/poost, contro C26 C27, R28 and external frequency contro RSA determine the corner requency the high pass ter USB buffers the ter frequency ceterminins components from the summing amplifier U3B the main equa zer assembly Low Frequency Low Pass Filter The low frequency shelving network comprises external frequency control R5 R30, C29 and C30 Buffer u6 isolates [he frequency determining components from the equalizers summing amplifier"
+   ]
+  }
+ ]
+}

@@ -89,23 +89,32 @@ Not on Google Drive yet: `M522B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts, 1 contacts (J3), 2 contacts (P1), 5 contacts (P3), 1 contacts (P5). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 7 of 7 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 1 |  | unread |  | low |
-| 1 |  | unread |  | low |
-| 2 |  | unread |  | low |
-| 4 | LEFT(MONO) IN | in | A1 + | high |
-| 5 | LEFT(MONO) IN | in | A1 - | high |
-| 5 |  | unread |  | low |
-| 6 | LEFT(MONO) OUT | out | A2 + | high |
-| 7 | LEFT(MONO) OUT | out | A2 - | high |
+| 1 | N/C | nc |  | high |
+| 2 | N/C | nc |  | high |
+| 3 | LEFT/MONO INPUT SHIELD | shield | LEFT/MONO INPUT shield | high |
+| 4 | LEFT/MONO INPUT + | in | LEFT/MONO INPUT + | high |
+| 5 | LEFT/MONO INPUT - | in | LEFT/MONO INPUT - | high |
+| 6 | LEFT/MONO OUTPUT | out | LEFT/MONO OUTPUT + | high |
+| 7 | LEFT/MONO OUTPUT COMMON | out | LEFT/MONO OUTPUT - | high |
+| 8 | RIGHT INPUT SHIELD | shield | RIGHT INPUT shield | high |
+| 9 | RIGHT INPUT + | in | RIGHT INPUT + | high |
+| 10 | RIGHT INPUT - | in | RIGHT INPUT - | high |
+| 11 | RIGHT OUTPUT | out | RIGHT OUTPUT + | high |
+| 12 | RIGHT OUTPUT COMMON | out | RIGHT OUTPUT - | high |
+| 13 | N/C | nc |  | high |
+| 14 | N/C | nc |  | high |
+| 15 | N/C | nc |  | high |
+| 16 | N/C | nc |  | high |
+| 17 | N/C | nc |  | high |
+| 18 | N/C | nc |  | high |
 | 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
+| 20 | 25 V COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| 22 | +/-25 VOL SUPPLY VOLTAGE | power |  | medium |
+| 22 | CHASSIS | ground |  | high |
 
 ## Manuals and documents
 

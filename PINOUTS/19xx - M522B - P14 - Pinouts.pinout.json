@@ -1,0 +1,293 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M522B - P14 - Pinouts.jpg",
+  "module": "M522B",
+  "applies_to": [
+    "M522B",
+    "M522C"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M522B/M522C EQUALIZER MODULES",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 single row",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "LEFT/MONO INPUT SHIELD",
+      "kind": "shield",
+      "port": "LEFT/MONO INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "INPUT (RD)",
+      "signal": "LEFT/MONO INPUT +",
+      "kind": "in",
+      "port": "LEFT/MONO INPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "INPUT (BK)",
+      "signal": "LEFT/MONO INPUT -",
+      "kind": "in",
+      "port": "LEFT/MONO INPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "OUTPUT (RD)",
+      "signal": "LEFT/MONO OUTPUT",
+      "kind": "out",
+      "port": "LEFT/MONO OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "COMMON (BK)",
+      "signal": "LEFT/MONO OUTPUT COMMON",
+      "kind": "out",
+      "port": "LEFT/MONO OUTPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "RIGHT INPUT SHIELD",
+      "kind": "shield",
+      "port": "RIGHT INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "INPUT (RD)",
+      "signal": "RIGHT INPUT +",
+      "kind": "in",
+      "port": "RIGHT INPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "INPUT (BK)",
+      "signal": "RIGHT INPUT -",
+      "kind": "in",
+      "port": "RIGHT INPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "OUTPUT (RD)",
+      "signal": "RIGHT OUTPUT",
+      "kind": "out",
+      "port": "RIGHT OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "COMMON (BK)",
+      "signal": "RIGHT OUTPUT COMMON",
+      "kind": "out",
+      "port": "RIGHT OUTPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "25V COM",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "LEFT/MONO INPUT",
+      "dir": "in",
+      "pins": {
+        "shield": "P1-3",
+        "+": "P1-4",
+        "-": "P1-5"
+      }
+    },
+    {
+      "name": "LEFT/MONO OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-6",
+        "-": "P1-7"
+      }
+    },
+    {
+      "name": "RIGHT INPUT",
+      "dir": "in",
+      "pins": {
+        "shield": "P1-8",
+        "+": "P1-9",
+        "-": "P1-10"
+      }
+    },
+    {
+      "name": "RIGHT OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-11",
+        "-": "P1-12"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "No drawing number, date or drawn-by; connector name not drawn (P1 assumed)",
+    "View not stated"
+  ],
+  "confidence": "high",
+  "notes": "Brackets: 3-5 LEFT/MONO BALANCED INPUT, 6-7 LEFT/MONO UNBALANCED OUTPUT, 8-10 RIGHT BALANCED INPUT, 11-12 RIGHT UNBALANCED OUTPUT. (RD)/(BK) = red/black wire; RD taken as +/hot, BK as -/common. Outputs are unbalanced: COMMON (BK) is the output return. Page 7-1. No inserts."
+}

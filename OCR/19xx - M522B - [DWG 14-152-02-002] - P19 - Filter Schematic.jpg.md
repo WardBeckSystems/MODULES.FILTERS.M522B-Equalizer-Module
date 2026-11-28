@@ -23,7 +23,7 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Title block:** (342, 32)–(432, 47) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 83 connected wire groups from 629 runs, 2 dotted junctions; labelled ends: 110 mm → WBIN; 61 mm → Pe7; 60 mm → Via; 45 mm → WBIN, Vz; 44 mm → Via
 
-Every curve, box, word and wire group: [19xx - M522B - P19 - Filter Schematic (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20P19%20-%20Filter%20Schematic%20%28traced%29.json) (the CAD file: `19xx - M522B - P19 - Filter Schematic (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - [DWG 14-152-02-002] - P19 - Filter Schematic (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20%5BDWG%2014-152-02-002%5D%20-%20P19%20-%20Filter%20Schematic%20%28traced%29.json) (the CAD file: `19xx - M522B - [DWG 14-152-02-002] - P19 - Filter Schematic (traced).dxf`).
 
 ## Full text
 
@@ -211,7 +211,7 @@ ISS,
 
 ```json
 {
- "file": "Modules/FILTERS/M522B/SCHEMATICS/19xx - M522B - P19 - Filter Schematic.jpg",
+ "file": "Modules/FILTERS/M522B/SCHEMATICS/19xx - M522B - [DWG 14-152-02-002] - P19 - Filter Schematic.jpg",
  "sha256": "06acb0f94faaaede47b3c93cbb503e712938e1c7131bb5056ca955bd218184d9",
  "kind": "module",
  "models": [

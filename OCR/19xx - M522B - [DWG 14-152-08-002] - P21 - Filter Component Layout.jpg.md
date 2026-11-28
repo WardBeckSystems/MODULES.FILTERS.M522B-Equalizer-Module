@@ -22,7 +22,7 @@ Wiki page: [M522B](../../../../PAGES/M522B.md)
 - **Words (OCR):** 54 in 46 lines: Pi- · 4o ICP · 02 · Ris · 722 · 725 · C29 · 72 · Ri · 35 · C6 · 727
 - **Title block:** (166, 56)–(330, 320) mm: ISSUE · 40/25 · WBS WARD-BECk SYSTEMS
 
-Every curve, box, word and wire group: [19xx - M522B - P21 - Filter Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20P21%20-%20Filter%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M522B - P21 - Filter Component Layout (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522B - [DWG 14-152-08-002] - P21 - Filter Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M522B%20-%20%5BDWG%2014-152-08-002%5D%20-%20P21%20-%20Filter%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M522B - [DWG 14-152-08-002] - P21 - Filter Component Layout (traced).dxf`).
 
 ## Full text
 
@@ -51,7 +51,7 @@ SA 14-152A MonO FILTER ASSEMBLY COMPONENT LAYOUT B 14-152-08-002 ISS.1
 
 ```json
 {
- "file": "Modules/FILTERS/M522B/SCHEMATICS/19xx - M522B - P21 - Filter Component Layout.jpg",
+ "file": "Modules/FILTERS/M522B/SCHEMATICS/19xx - M522B - [DWG 14-152-08-002] - P21 - Filter Component Layout.jpg",
  "sha256": "db4b21099c6966756c388afb639b97a675e852e8427608e2a3b0cbe9f23d4acd",
  "kind": "module",
  "models": [

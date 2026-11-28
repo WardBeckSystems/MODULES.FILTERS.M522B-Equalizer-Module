@@ -1,5 +1,5 @@
 # 19xx - M522B - P21 - Filter Component Layout.jpg
-Wiki page: [M522B](../../../../PAGES/M522B.md)
+Wiki page: [M522B](../)
 
 
 - **Year:** unknown (unknown)

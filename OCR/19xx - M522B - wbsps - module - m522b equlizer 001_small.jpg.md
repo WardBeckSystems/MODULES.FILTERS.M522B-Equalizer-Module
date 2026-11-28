@@ -1,5 +1,5 @@
 # 19xx - M522B - wbsps - module - m522b equlizer 001_small.jpg
-Wiki page: [M522B](../../../../PAGES/M522B.md)
+Wiki page: [M522B](../)
 
 
 - **Year:** unknown (unknown)

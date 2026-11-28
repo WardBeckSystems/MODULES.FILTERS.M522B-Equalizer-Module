@@ -1,6 +1,6 @@
 # M522B Equalizer Module · Filters
 
-Ward-Beck Systems M522B. Wiki page: [M522B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M522B.html)
+Ward-Beck Systems M522B. Wiki page: [M522B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M522B-Equalizer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

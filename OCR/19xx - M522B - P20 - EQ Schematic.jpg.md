@@ -1,5 +1,5 @@
 # 19xx - M522B - P20 - EQ Schematic.jpg
-Wiki page: [M522B](../../../../PAGES/M522B.md)
+Wiki page: [M522B](../)
 
 
 - **Year:** unknown (unknown)
